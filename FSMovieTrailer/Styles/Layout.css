@@ -1,0 +1,15 @@
+﻿body {
+    background-color: burlywood;
+}
+
+#footDesign {
+    height: 50px;
+    background-color: moccasin;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
