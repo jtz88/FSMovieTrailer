@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="images\greyhound.jpg" />
     <Content Include="Index.html" />
+    <Content Include="scripts\javaScript.js" />
     <Content Include="Styles\Layout.css" />
     <Content Include="Web.config" />
   </ItemGroup>
